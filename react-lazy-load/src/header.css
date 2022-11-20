@@ -1,0 +1,10 @@
+.header{
+
+}
+
+.header > h1{
+    font-weight: 900;
+    font-size: 150%;
+    padding: 1%;
+    color:rgb(42, 37, 112);
+}
